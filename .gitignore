@@ -2,3 +2,4 @@
 **/.env
 /server/uploads
 **/dist
+.DS_Store
